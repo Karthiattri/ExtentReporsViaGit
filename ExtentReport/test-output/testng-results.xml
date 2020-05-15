@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39881" started-at="2020-05-04T21:55:10 IST" finished-at="2020-05-04T21:55:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39881" started-at="2020-05-04T21:55:10 IST" finished-at="2020-05-04T21:55:50 IST">
+      <class name="extentReports.Extentreportviamaven">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:extentReports.Extentreportviamaven@1f28c152]" name="OpenBrowser" is-config="true" duration-ms="43410" started-at="2020-05-04T21:54:27 IST" finished-at="2020-05-04T21:55:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="OpenBing()[pri:0, instance:extentReports.Extentreportviamaven@1f28c152]" name="OpenBing" duration-ms="10192" started-at="2020-05-04T21:55:10 IST" finished-at="2020-05-04T21:55:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBing -->
+        <test-method status="PASS" signature="OpenGoogle()[pri:0, instance:extentReports.Extentreportviamaven@1f28c152]" name="OpenGoogle" duration-ms="12645" started-at="2020-05-04T21:55:21 IST" finished-at="2020-05-04T21:55:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGoogle -->
+        <test-method status="PASS" signature="OpenWikipedia()[pri:0, instance:extentReports.Extentreportviamaven@1f28c152]" name="OpenWikipedia" duration-ms="16714" started-at="2020-05-04T21:55:33 IST" finished-at="2020-05-04T21:55:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenWikipedia -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:extentReports.Extentreportviamaven@1f28c152]" name="CloseBrowser" is-config="true" duration-ms="9261" started-at="2020-05-04T21:55:50 IST" finished-at="2020-05-04T21:56:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- extentReports.Extentreportviamaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
